@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Timothy odongo</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2tUlzPhbJEMTz3fqvj9Rlb&ust=1696407074435000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODT5vu22YEDFQAAAAAdAAAAABAk" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **React, python**
 
 - 📫 How to reach me **todongoonditi@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tim_odongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tim_odongo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/timothy onditi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timothy onditi" height="30" width="40" /></a>
 <a href="https://instagram.com/tim.odongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tim.odongo" height="30" width="40" /></a>
 </p>
 
