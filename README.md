@@ -79,5 +79,37 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
       </a>
     </td>
+    <td align="center" width="80">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://kubernetes.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://github.com/features/actions" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://aws.amazon.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.nginx.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
